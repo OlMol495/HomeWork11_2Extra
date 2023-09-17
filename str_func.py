@@ -1,4 +1,5 @@
 def str_func():
+    """capitalizes all letters"""
     text = input("Введите слово или текст\n")
     return text.upper()
 
